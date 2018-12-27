@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_DB_LOCATION": "@ldv-cluster-shard-00-00-zvnr4.gcp.mongodb.net:27017,ldv-cluster-shard-00-01-zvnr4.gcp.mongodb.net:27017,ldv-cluster-shard-00-02-zvnr4.gcp.mongodb.net:27017/test?ssl=true&replicaSet=ldv-cluster-shard-0&authSource=admin&retryWrites=true",
+    "MONGO_DB_PW" : "lvdadmin",
+    "PORT": 8080
+  }
+}
